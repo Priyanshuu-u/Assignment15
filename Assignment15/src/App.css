@@ -1,0 +1,19 @@
+h1 {
+    font-size: 50px;
+}
+.divv{
+    width: 300px;
+ 
+   text-align: center;
+   font-size: 100px;
+   margin: 0px 0px;
+}
+button{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin:0px 30px;
+    font-size: 30px;
+    color: white;
+    background-color: blue;
+}
